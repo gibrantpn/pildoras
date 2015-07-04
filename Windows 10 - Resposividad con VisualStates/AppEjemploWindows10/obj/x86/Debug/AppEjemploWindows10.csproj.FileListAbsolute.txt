@@ -1,0 +1,504 @@
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\ApplicationInsights.config
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\App.xbf
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\MainPage.xbf
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\AppEjemploWindows10.xr.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\AppEjemploWindows10.exe
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\AppEjemploWindows10.pdb
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\resources.pri
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\AppxManifest.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Internal.Net.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Internal.Uri.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.CSharp.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.VisualBasic.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.AppContext.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Collections.Concurrent.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Collections.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Collections.NonGeneric.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Collections.Specialized.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.ComponentModel.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.ComponentModel.Primitives.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.ComponentModel.TypeConverter.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Console.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Core.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Data.Common.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Diagnostics.Debug.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Diagnostics.Tools.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Dynamic.Runtime.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Globalization.Calendars.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Globalization.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Globalization.Extensions.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.Compression.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.FileSystem.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Linq.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Linq.Expressions.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Linq.Parallel.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Linq.Queryable.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Net.Http.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Net.Http.Rtc.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Net.NetworkInformation.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Net.Primitives.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Net.Requests.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.ObjectModel.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Private.Networking.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Private.ServiceModel.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.Context.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.Emit.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.Extensions.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.Primitives.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Resources.ResourceManager.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Resources.ResourceWriter.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.Extensions.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.Handles.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.InteropServices.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.Numerics.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Claims.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.DeriveBytes.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.Encoding.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.Encryption.Aes.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.Encryption.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.Hashing.Algorithms.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.Hashing.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.RandomNumberGenerator.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Principal.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.ServiceModel.Http.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.ServiceModel.Security.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Text.Encoding.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Text.RegularExpressions.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Threading.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Threading.Tasks.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Threading.Timer.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.XDocument.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.XmlDocument.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.XPath.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.XPath.XDocument.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.XPath.XmlDocument.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\ClrCompression.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\resources.pri
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\AppEjemploWindows10.exe
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\AppEjemploWindows10.pdb
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\AppEjemploWindows10.xr.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\ApplicationInsights.config
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Assets\Logo.scale-100.png
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Assets\SmallLogo.scale-100.png
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Assets\SplashScreen.scale-100.png
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Assets\StoreLogo.scale-100.png
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Assets\WideLogo.scale-100.png
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\CoreRuntime\AppEjemploWindows10.exe
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\Properties\Default.rd.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Numerics.Vectors.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\WinMetadata\Windows.winmd
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\AppxManifest.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\AppEjemploWindows10.build.appxrecipe
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\System.Numerics.Vectors.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Microsoft.ApplicationInsights.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\System.Numerics.Vectors.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppEjemploWindows10.csprojResolveAssemblyReference.cache
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\App.g.i.cs
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\App.g.cs
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\MainPage.g.i.cs
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\MainPage.g.cs
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\XamlTypeInfo.g.cs
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\App.xaml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\MainPage.xaml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\App.xbf
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\MainPage.xbf
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\XamlSaveStateFile.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\ApplicationInsights.config
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppEjemploWindows10.exe
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppEjemploWindows10.pdb
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Microsoft.Diagnostics.Tracing.EventSource\en-US\Microsoft.Diagnostics.Tracing.Messages.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppEjemploWindows10.csproj.GenerateResource.Cache
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Microsoft.Diagnostics.Tracing.EventSource.pri
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Microsoft.Diagnostics.Tracing.EventSource\qualifiers.txt
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\priconfig.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\priconfig.xml.intermediate
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\layout.resfiles
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\layout.resfiles.intermediate
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\resources.resfiles
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\resources.resfiles.intermediate
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\pri.resfiles
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\pri.resfiles.intermediate
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\qualifiers.txt
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\qualifiers.txt.intermediate
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\ProjectArchitectures.txt
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\AppEjemploWindows10.exe
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\AppEjemploWindows10.pdb
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\Microsoft.Diagnostics.Tracing.EventSource.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\System.Numerics.Vectors.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\ApplicationInsights.config
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\Properties\Default.rd.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\Assets\Logo.scale-100.png
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\Assets\SmallLogo.scale-100.png
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\Assets\SplashScreen.scale-100.png
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\Assets\StoreLogo.scale-100.png
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\Assets\WideLogo.scale-100.png
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\AppEjemploWindows10.xr.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\WinMetadata\Windows.winmd
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\resources.pri
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\Microsoft.CSharp\en-US\Microsoft.CSharp.RuntimeBinder.Errors.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\Microsoft.CSharp\en-US\Microsoft.CSharp.RuntimeBinder.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\Microsoft.VisualBasic\en-US\Microsoft.VisualBasic.MyServices.Internal.ProgressDialog.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\Microsoft.VisualBasic\en-US\Microsoft.VisualBasic.CompilerServices.VBInputBox.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\Microsoft.VisualBasic\en-US\Microsoft.VisualBasic.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.AppContext\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Collections.NonGeneric\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Collections.Specialized\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.ComponentModel.TypeConverter\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Console\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Core\en-US\System.Core.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Core\en-US\System.Linq.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Core\en-US\System.Linq.Expressions.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Data.Common\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System\en-US\System.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Globalization.Extensions\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.IO.Compression\en-US\System.IO.Compression.Messages.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.IO.Compression.ZipFile\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.IO.FileSystem\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.IO.IsolatedStorage\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.IO.UnmanagedMemoryStream\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Net.Http\en-US\System.Net.Http.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Private.DataContractSerialization\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Private.Networking\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Private.ServiceModel\en-US\Internals.TraceCore.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Private.ServiceModel\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Reflection.Context\en-US\System.Reflection.Context.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Reflection.DispatchProxy\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Resources.ResourceWriter\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Runtime.WindowsRuntime\en-US\System.Runtime.WindowsRuntime.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Runtime.WindowsRuntime.UI.Xaml\en-US\System.Runtime.WindowsRuntime.UI.Xaml.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.DeriveBytes\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.Encoding\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.Encryption.Aes\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.Encryption\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.Hashing.Algorithms\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.Hashing\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.RandomNumberGenerator\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Text.Encoding.CodePages\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Xml.XmlDocument\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Xml.XPath\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Xml.XPath.XDocument\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Xml.XPath.XmlDocument\en-US\System.SR.resw
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Core\AppEjemploWindows10.csproj.AppLocalNetFX.GenerateResource.Cache
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\empty.layout.resfiles
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\empty.pri.resfiles
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\applocalnetfxresources.resfiles
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\priconfig.netfx.xml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Core\AppEjemploWindows10.csproj.AppLocalNetFX.GenerateResource.Cache
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\pagina1.xbf
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\pagina2.xbf
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\bin\x86\Debug\Portada.xbf
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\pagina1.g.i.cs
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\pagina1.g.cs
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\pagina2.g.i.cs
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\pagina2.g.cs
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Portada.g.i.cs
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Portada.g.cs
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\pagina1.xaml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\pagina2.xaml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Portada.xaml
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\pagina1.xbf
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\pagina2.xbf
+c:\users\adela\documents\visual studio 2015\Projects\AppEjemploWindows10\AppEjemploWindows10\obj\x86\Debug\Portada.xbf
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\ApplicationInsights.config
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\App.xbf
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\MainPage.xbf
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\pagina1.xbf
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\pagina2.xbf
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Portada.xbf
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\AppEjemploWindows10.xr.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\AppEjemploWindows10.exe
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\AppEjemploWindows10.pdb
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\resources.pri
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\AppxManifest.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Internal.Net.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Internal.Uri.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.CSharp.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.VisualBasic.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.Win32.Primitives.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.AppContext.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Collections.Concurrent.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Collections.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Collections.NonGeneric.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Collections.Specialized.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.ComponentModel.Annotations.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.ComponentModel.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.ComponentModel.EventBasedAsync.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.ComponentModel.Primitives.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.ComponentModel.TypeConverter.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Console.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Core.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Data.Common.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Diagnostics.Contracts.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Diagnostics.Debug.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Diagnostics.Tools.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Diagnostics.Tracing.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Dynamic.Runtime.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Globalization.Calendars.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Globalization.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Globalization.Extensions.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.Compression.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.Compression.ZipFile.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.FileSystem.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.FileSystem.Primitives.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.IsolatedStorage.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.IO.UnmanagedMemoryStream.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Linq.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Linq.Expressions.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Linq.Parallel.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Linq.Queryable.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Net.Http.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Net.Http.Rtc.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Net.NetworkInformation.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Net.Primitives.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Net.Requests.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Net.WebHeaderCollection.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.ObjectModel.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Private.DataContractSerialization.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Private.Networking.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Private.ServiceModel.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.Context.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.DispatchProxy.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.Emit.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.Emit.ILGeneration.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.Emit.Lightweight.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.Extensions.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.Primitives.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Reflection.TypeExtensions.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Resources.ResourceManager.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Resources.ResourceWriter.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.Extensions.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.Handles.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.InteropServices.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.InteropServices.WindowsRuntime.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.Numerics.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.Serialization.Json.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.Serialization.Primitives.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.Serialization.Xml.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Runtime.WindowsRuntime.UI.Xaml.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Claims.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.DeriveBytes.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.Encoding.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.Encryption.Aes.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.Encryption.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.Hashing.Algorithms.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.Hashing.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Cryptography.RandomNumberGenerator.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Security.Principal.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.ServiceModel.Duplex.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.ServiceModel.Http.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.ServiceModel.NetTcp.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.ServiceModel.Primitives.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.ServiceModel.Security.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Text.Encoding.CodePages.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Text.Encoding.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Text.Encoding.Extensions.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Text.RegularExpressions.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Threading.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Threading.Tasks.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Threading.Tasks.Parallel.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Threading.Timer.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.ReaderWriter.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.XDocument.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.XmlDocument.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.XmlSerializer.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.XPath.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.XPath.XDocument.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Xml.XPath.XmlDocument.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\ClrCompression.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\resources.pri
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\AppEjemploWindows10.exe
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\AppEjemploWindows10.pdb
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\AppEjemploWindows10.xr.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\ApplicationInsights.config
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Assets\Logo.scale-100.png
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Assets\SmallLogo.scale-100.png
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Assets\SplashScreen.scale-100.png
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Assets\StoreLogo.scale-100.png
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Assets\WideLogo.scale-100.png
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\CoreRuntime\AppEjemploWindows10.exe
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\Properties\Default.rd.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Numerics.Vectors.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\WinMetadata\Windows.winmd
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\AppxManifest.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\AppEjemploWindows10.build.appxrecipe
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Microsoft.ApplicationInsights.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\System.Numerics.Vectors.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Microsoft.ApplicationInsights.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Microsoft.ApplicationInsights.Extensibility.Windows.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\System.Numerics.Vectors.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\System.Numerics.Vectors.WindowsRuntime.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Microsoft.Diagnostics.Tracing.EventSource.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\App.g.i.cs
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\App.g.cs
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\MainPage.g.i.cs
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\MainPage.g.cs
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\pagina1.g.i.cs
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\pagina1.g.cs
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\pagina2.g.i.cs
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\pagina2.g.cs
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Portada.g.i.cs
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Portada.g.cs
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\XamlTypeInfo.g.cs
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\App.xaml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\MainPage.xaml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\pagina1.xaml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\pagina2.xaml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Portada.xaml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\App.xbf
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\MainPage.xbf
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\pagina1.xbf
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\pagina2.xbf
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Portada.xbf
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\XamlSaveStateFile.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\ApplicationInsights.config
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppEjemploWindows10.exe
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppEjemploWindows10.pdb
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Microsoft.Diagnostics.Tracing.EventSource\en-US\Microsoft.Diagnostics.Tracing.Messages.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppEjemploWindows10.csproj.GenerateResource.Cache
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Microsoft.Diagnostics.Tracing.EventSource.pri
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Microsoft.Diagnostics.Tracing.EventSource\qualifiers.txt
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\priconfig.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\priconfig.xml.intermediate
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\layout.resfiles
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\layout.resfiles.intermediate
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\resources.resfiles
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\resources.resfiles.intermediate
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\pri.resfiles
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\pri.resfiles.intermediate
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\qualifiers.txt
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\qualifiers.txt.intermediate
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\ProjectArchitectures.txt
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\AppEjemploWindows10.exe
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\AppEjemploWindows10.pdb
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\Microsoft.ApplicationInsights.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\Microsoft.ApplicationInsights.Extensibility.Windows.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\Microsoft.ApplicationInsights.PersistenceChannel.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\Microsoft.Diagnostics.Tracing.EventSource.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\System.Numerics.Vectors.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\System.Numerics.Vectors.WindowsRuntime.dll
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\ApplicationInsights.config
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\Properties\Default.rd.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\Assets\Logo.scale-100.png
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\Assets\SmallLogo.scale-100.png
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\Assets\SplashScreen.scale-100.png
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\Assets\StoreLogo.scale-100.png
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\Assets\WideLogo.scale-100.png
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\AppEjemploWindows10.xr.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\WinMetadata\Windows.winmd
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\resources.pri
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\Microsoft.CSharp\en-US\Microsoft.CSharp.RuntimeBinder.Errors.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\Microsoft.CSharp\en-US\Microsoft.CSharp.RuntimeBinder.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\Microsoft.VisualBasic\en-US\Microsoft.VisualBasic.MyServices.Internal.ProgressDialog.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\Microsoft.VisualBasic\en-US\Microsoft.VisualBasic.CompilerServices.VBInputBox.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\Microsoft.VisualBasic\en-US\Microsoft.VisualBasic.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.AppContext\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Collections.NonGeneric\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Collections.Specialized\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.ComponentModel.TypeConverter\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Console\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Core\en-US\System.Core.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Core\en-US\System.Linq.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Core\en-US\System.Linq.Expressions.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Data.Common\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System\en-US\System.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Globalization.Extensions\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.IO.Compression\en-US\System.IO.Compression.Messages.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.IO.Compression.ZipFile\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.IO.FileSystem\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.IO.IsolatedStorage\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.IO.UnmanagedMemoryStream\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Net.Http\en-US\System.Net.Http.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Private.DataContractSerialization\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Private.Networking\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Private.ServiceModel\en-US\Internals.TraceCore.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Private.ServiceModel\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Reflection.Context\en-US\System.Reflection.Context.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Reflection.DispatchProxy\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Resources.ResourceWriter\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Runtime.WindowsRuntime\en-US\System.Runtime.WindowsRuntime.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Runtime.WindowsRuntime.UI.Xaml\en-US\System.Runtime.WindowsRuntime.UI.Xaml.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.DeriveBytes\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.Encoding\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.Encryption.Aes\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.Encryption\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.Hashing.Algorithms\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.Hashing\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Security.Cryptography.RandomNumberGenerator\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Text.Encoding.CodePages\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Xml.XmlDocument\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Xml.XPath\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Xml.XPath.XDocument\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\System.Xml.XPath.XmlDocument\en-US\System.SR.resw
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\Core\AppEjemploWindows10.csproj.AppLocalNetFX.GenerateResource.Cache
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\empty.layout.resfiles
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\empty.pri.resfiles
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\applocalnetfxresources.resfiles
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppLocalNetFXResources\priconfig.netfx.xml
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\bin\x86\Debug\Core\AppEjemploWindows10.csproj.AppLocalNetFX.GenerateResource.Cache
+C:\Users\adela\Documents\Visual Studio 2015\Projects\Windows 10 - Pane\AppEjemploWindows10\obj\x86\Debug\AppEjemploWindows10.csprojResolveAssemblyReference.cache
